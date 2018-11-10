@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-11-10_1940",
+    "name": "rbxsplace",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -38,6 +38,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/r-128x138.png",
+    "noImageResize": "",
     "uniqCompNum": 6,
     "versionPublish": "4.8.6"
   },
